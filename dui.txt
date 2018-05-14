@@ -1,2 +1,6 @@
 Git is a version control system.
+<<<<<<< HEAD
 Git is free software.ÊÖ¶¯·§
+=======
+Git is free software.
+>>>>>>> parent of c1eb378... Signed-off-by: tzzqi <865649205@qq.com>
